@@ -81,7 +81,6 @@ python manage.py runserver
 ```
 myproject/
 ├── manage.py
-├── requirements.txt
 ├── .env                  # Add this manually
 ├── myapp/
 └── myproject/
