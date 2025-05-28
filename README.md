@@ -1,4 +1,4 @@
-Great! Here's a `README.md` file tailored to your Django project, with instructions to clone the repo, set up the virtual environment, install dependencies, and manually create the missing `.env` file:
+
 
 ---
 
@@ -94,6 +94,4 @@ myproject/
 * GitHub: [krishnamohannaik](https://github.com/krishnamohannaik)
 
 ```
-
-Would you like me to create this file and place it in your project folder now?
 ```
